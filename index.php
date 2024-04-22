@@ -29,7 +29,7 @@ $percentage = 10;
             <p class="text-lg">Track your EP with ease</p>
         </div>
     </header>
-    <div class="flex justify-center items-center h-64">
+    <div class="flex justify-center items-center h-64 w-3/4 bg-gray-400 mx-auto">
     <svg class="w-64 h-64" viewBox="0 0 36 36">
         <path class="circle-bg"
             d="M18 2.0845
